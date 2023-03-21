@@ -1,4 +1,5 @@
-# Hi ! ### https://mirdadayev-u.netlify.app/
+### https://mirdadayev-u.netlify.app/
+# Hi ! 
 
 This project is my (Mirdadayev) personal portfolio website
 
