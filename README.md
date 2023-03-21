@@ -12,4 +12,4 @@ You can access this site:
 ### Instagram: https://instagram.com/ulugbek_mirdadayev,  https://instagram.com/ulugbek_mirdadaev
 ### LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
 ### Telegram: https://t.me/ulugbek_mirdadaev
-## E-mail: ulugbekmirdadayev1211@gmail.com
+# E-mail: ulugbekmirdadayev1211@gmail.com
