@@ -8,7 +8,7 @@ You can access this site:
 
 ### https://mirdadayev-u.netlify.app/
 
-** If you have questions and suggestions: 
-** Instagram: https://instagram.com/ulugbek_mirdadayev,  https://instagram.com/ulugbek_mirdadaev
-** LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
-** Telegram: https://t.me/ulugbek_mirdadaev
+### If you have questions and suggestions: 
+### Instagram: https://instagram.com/ulugbek_mirdadayev,  https://instagram.com/ulugbek_mirdadaev
+### LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
+### Telegram: https://t.me/ulugbek_mirdadaev
