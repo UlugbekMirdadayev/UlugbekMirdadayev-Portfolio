@@ -1,46 +1,50 @@
-# Getting Started with Create React App
+### https://mirdadayev-u.netlify.app/
+# Hi ! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my (Mirdadayev) personal portfolio website
 
-## Available Scripts
+## React Js, animations, styled-component and beautiful design
 
-In the project directory, you can run:
+You can access this site:
 
-### `npm start`
+### https://mirdadayev-u.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### If you have questions and suggestions: 
+### Instagram: https://instagram.com/ulugbek_mirdadayev,  https://instagram.com/ulugbek_mirdadaev
+### LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
+### Telegram: https://t.me/ulugbek_mirdadaev
+#### E-mail: ulugbekmirdadayev1211@gmail.com
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+# Привет !
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Этот проект является моим (Мирдадаев) личным сайтом-портфолио.
 
-### `npm run build`
+## React Js, анимация, стилизованный компонент и красивый дизайн
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Вы можете получить доступ к этому сайту:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### https://mirdadayev-u.netlify.app/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Если у вас есть вопросы и предложения:
+### Инстаграм: https://instagram.com/ulugbek_mirdadayev, https://instagram.com/ulugbek_mirdadaev
+### LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
+### Telegram: https://t.me/ulugbek_mirdadaev
+#### Электронная почта: ulugbekmirdadayev1211@gmail.com
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Salom !
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Bu loyiha mening (Mirdadaev) shaxsiy portfolio saytim.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## React Js, animatsiya, uslubli komponent va chiroyli dizayn
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Siz ushbu saytga kirishingiz mumkin:
 
-## Learn More
+### https://mirdadayev-u.netlify.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Savollaringiz yoki takliflaringiz bo'lsa:
+### Instagram: https://instagram.com/ulugbek_mirdadayev, https://instagram.com/ulugbek_mirdadaev
+### LinkedIn: https://www.linkedin.com/in/ulugbek-mirdadayev/
+### Telegram: https://t.me/ulugbek_mirdadaev
+#### Elektron pochta: ulugbekmirdadayev1211@gmail.com
