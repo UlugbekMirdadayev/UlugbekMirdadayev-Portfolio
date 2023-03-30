@@ -1,25 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Fragment } from "react";
+import { Routes, Route } from "react-router-dom";
+import GlobalStyle from "./Assets/Styles/globalStyle";
+import { Header } from "./Components/Header";
+import Ripple from "./Components/Ui/Ripple/Ripple";
+import { routes } from "./Routes/routes";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment>
+      <Ripple size={30} position="fixed" color={"rgb(63, 200, 134)"} duration={1000} />
+      <GlobalStyle />
+      <Header />
+      <Routes>
+        {routes.map((r) => (
+          <Route key={r.path} path={r.path} element={r.element} />
+        ))}
+      </Routes>
+    </Fragment>
   );
 }
 
